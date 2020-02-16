@@ -1,6 +1,6 @@
 """
     author : Ali Emre SAVAS
-    Link :
+    Link : https://www.hackerrank.com/challenges/nested-list/problem
 """
 if __name__ == '__main__':
     students = list()
