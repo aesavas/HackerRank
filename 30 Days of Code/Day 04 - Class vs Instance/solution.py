@@ -5,6 +5,7 @@
 
 
 class Person:
+
     def __init__(self, initialAge):
         self.age = initialAge
         if(self.age < 0):
