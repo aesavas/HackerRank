@@ -38,8 +38,8 @@ for i in range(1, int(input())+1):
     print(int((10**i//9)**2))
 
 """
-And also, designer of this problem add other solution like these.
-(I think, he is joking everyone :D)
+And also, another solution that the owner of the problem offer like this:
+(I think, he is joking to everyone :D)
 """
 for i in range(1, int(input())+1):
     print([1, 121, 12321, 1234321, 123454321, 12345654321,
