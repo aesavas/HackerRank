@@ -7,6 +7,6 @@
 
 * [Python](./Python/)
 
-* [Project Euler+](./Project Euler+)
+* [Project Euler+](./Project%Euler+)
 
 * [30 Days Of Code](./30%20Days%20of%20Code)
