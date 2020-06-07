@@ -17,4 +17,4 @@
 
 ---------------------------------------------
 > Once I solve problems, I will add solutions.
->> Note : If you have better solution, you can share with me via e-mail. :mailbox: <&nbsp> :simple_smile:
+>> Note : If you have better solution, you can share with me via e-mail. :mailbox:
