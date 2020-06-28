@@ -1,3 +1,9 @@
+/*
+    author : Ali Emre SAVAS
+    Link : https://www.hackerrank.com/challenges/java-end-of-file/problem
+    ------------------------
+*/
+
 import java.util.*;
 
 public class Solution {
