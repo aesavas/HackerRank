@@ -13,8 +13,9 @@ public class Solution {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();
         double d = scan.nextDouble();
-        scan.nextLine();
+        scan.nextLine();  // dummy input because of \n
         String s = scan.nextLine();
+        scan.close();
         
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
