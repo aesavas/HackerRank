@@ -1,3 +1,9 @@
+/*
+    author : Ali Emre SAVAS
+    Link : https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
+    ------------------------
+*/
+
 import java.util.Scanner;
 
 public class Solution {
@@ -13,4 +19,4 @@ public class Solution {
         System.out.println(b);
         System.out.println(c);
     }
-}   
+}
