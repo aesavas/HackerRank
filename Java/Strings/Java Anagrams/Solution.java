@@ -1,6 +1,6 @@
 /*
     author : Ali Emre SAVAS
-    Link : https://www.hackerrank.com/challenges/welcome-to-java/problem
+    Link : https://www.hackerrank.com/challenges/java-anagrams/problem
     ------------------------
 */
 
