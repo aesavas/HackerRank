@@ -23,26 +23,26 @@ class Student(Person):
     #   scores - An array of integers denoting the Person's test scores.
     
         def __init__(self, firstName, lastName, idNumber, scores):
-        super(Student, self).__init__(firstName, lastName, idNumber)
-        self.scores = scores
+            super(Student, self).__init__(firstName, lastName, idNumber)
+            self.scores = scores
 
     #   Function Name: calculate
     #   Return: A character denoting the grade.
     #
         def calculate(self):
-        average = sum(self.scores)/len(self.scores)
-        if 90 <= average <= 100:
-            return "O"
-        elif 80 <= average < 90:
-            return "E"
-        elif 70 <= average < 80:
-            return "A"
-        elif 55 <= average < 70:
-            return "P"
-        elif 40 <= average < 55:
-            return "D"
-        else:
-            return "T"
+            average = sum(self.scores)/len(self.scores)
+            if 90 <= average <= 100:
+                return "O"
+            elif 80 <= average < 90:
+                return "E"
+            elif 70 <= average < 80:
+                return "A"
+            elif 55 <= average < 70:
+                return "P"
+            elif 40 <= average < 55:
+                return "D"
+            else:
+                return "T"
         
 
 line = input().split()
