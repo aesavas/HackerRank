@@ -1,6 +1,6 @@
 /*
     author : Ali Emre SAVAS
-    Link : https://www.hackerrank.com/challenges/java-string-reverse/problem
+    Link : https://www.hackerrank.com/challenges/java-1d-array-introduction/problem
     ------------------------
 */
 
